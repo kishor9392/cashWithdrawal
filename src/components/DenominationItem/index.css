@@ -1,0 +1,21 @@
+.li {
+  list-style-type: none;
+}
+
+.btn {
+  background-color: #382f5a;
+  padding: 5px;
+  border-color: #c4c4c4;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 8px;
+  color: #c4c4c4;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+  width: 200px;
+  margin: 12px;
+}
